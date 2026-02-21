@@ -6,7 +6,7 @@ For this specific task by our project manager I will add a Google Map to my Midt
 
 ## Reasons for the Change
 
-I am thinking my instructor wants to see us use more real-world features instead of just basic text and pictures. by adding a Google Map it shows how we are able to embed something from another site and make it work inside my webpage. It would make this project more complete and life like. 
+I am thinking my instructor wants to see us use more real-world features instead of just basic text and pictures. By adding a Google Map it shows how we are able to embed something from another site and make it work inside my webpage. It would make this project more complete and life like. 
 
 ## How This Change Will Add Value
 
